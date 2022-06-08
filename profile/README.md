@@ -17,7 +17,7 @@ I am from Sanya City, which is a wonderful tropical city with beautiful beaches 
 ![corgi](https://github.com/gtb-2022-chen-weixiao/.github/blob/main/profile/assets/corgi.jpg)
 I do love corgi even though I don't keep one.
 
-![profile](https://github.com/gtb-2022-chen-weixiao/.github/blob/main/profile/assets/profile.JPG)
+<!-- ![profile](https://github.com/gtb-2022-chen-weixiao/.github/blob/main/profile/assets/profile.JPG) -->
 And this is me. <- (heavily photoshopped :-)
 
 
